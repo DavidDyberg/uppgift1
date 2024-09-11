@@ -7,7 +7,7 @@ ls: Nice för att kunna se alla filer som är listade
 
 ## Terminal kommando jag lärt mig själv
 
-code. : Används för att öppna upp ett vs code direkt ur terminalen i det projekt man befinner sig i.
+code. : Används för att öppna upp ett vs code direkt ur terminalen i det projekt man befinner sig i. <br/>
 Källa: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
 
 ## Git kommando jag lärt mig på föreläsningen
@@ -17,7 +17,7 @@ git status: Nice att kunna se statusen på filerna
 
 ## Git kommando jag lärt mig själv
 
-git log --oneline: Gör så att man ser alla sina commits rad för rad vilket gör det lättare att se.
+git log --oneline: Gör så att man ser alla sina commits rad för rad vilket gör det lättare att se. <br/>
 Källa: https://www.scaler.com/topics/git/git-log-one-line/
 
 ## Något mer om Github och Markdown jag lärt mig?
