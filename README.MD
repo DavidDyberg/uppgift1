@@ -22,5 +22,5 @@ Källa: https://www.scaler.com/topics/git/git-log-one-line/
 
 ## Något mer om Github och Markdown jag lärt mig?
 
-Att man kan skapa olika storlekar på rubriker beroende på hur många #-tecken man har innan en text.
+Att man kan skapa olika storlekar på rubriker beroende på hur många #-tecken man har innan en text. <br/>
 Källa: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
