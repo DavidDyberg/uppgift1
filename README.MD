@@ -2,7 +2,7 @@
 
 ## Terminal kommandon jag lärt mig på föreläsningar
 
-pwd: Riktigt nice kommando så att man kan se hela pathen
+pwd: Riktigt nice kommando så att man kan se hela pathen <br/>
 ls: Nice för att kunna se alla filer som är listade
 
 ## Terminal kommando jag lärt mig själv
@@ -12,7 +12,7 @@ Källa: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-yo
 
 ## Git kommando jag lärt mig på föreläsningen
 
-git log: Nice att kunna se alla commits
+git log: Nice att kunna se alla commits <br/>
 git status: Nice att kunna se statusen på filerna
 
 ## Git kommando jag lärt mig själv
